@@ -6,7 +6,7 @@ window.JSMaps.maps.africa = {
 	},
 	"paths": [
 		{
-			"enable": false,
+			"enable": true,
 			"name": "Burkina Faso",
 			"abbreviation": "BF",
 			"textX": 285,
