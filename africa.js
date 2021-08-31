@@ -2,7 +2,7 @@ window.JSMaps.maps.africa = {
 	"config": {
 		"mapWidth": 998.749,
 		"mapHeight": 995.433,
-		"defaultText": "<h1>Africa</h1><br /><p>Africa is the world's second-largest and second-most-populous continent. At about 30.2 million km2 (11.7 million square miles) including adjacent islands, it covers six percent of Earth's total surface area and 20.4 percent of its total land area. With 1.1 billion people as of 2013, it accounts for about 15% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognized sovereign states (countries), nine territories and two de facto independent states with limited or no recognition.</p>"
+		"defaultText": "<h1>Africa</h1><br /><p>L'Afrique est le deuxième plus grand et le deuxième continent le plus peuplé du monde. D'une superficie d'environ 30,2 millions de km2 (11,7 millions de miles carrés), y compris les îles adjacentes, il couvre six pour cent de la superficie totale de la Terre et 20,4 pour cent de sa superficie totale. Avec 1,1 milliard d'habitants en 2013, il représente environ 15 % de la population humaine mondiale. Le continent est entouré par la mer Méditerranée au nord, le canal de Suez et la mer Rouge le long de la péninsule du Sinaï au nord-est, l'océan Indien au sud-est et l'océan Atlantique à l'ouest. Le continent comprend Madagascar et divers archipels. Il contient 54 États souverains pleinement reconnus (pays), neuf territoires et deux États indépendants de facto avec une reconnaissance limitée ou inexistante.</p>"
 	},
 	"paths": [
 		{
@@ -199,14 +199,14 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Mauritania",
+			"name": "Mauritanie",
 			"abbreviation": "MR",
 			"textX": 178,
 			"textY": 243,
 			"color": "#3fabe2",
 			"hoverColor": "#055c88",
 			"selectedColor": "#1f546f",
-			"text": "<div class=\"jsmaps-text\" ><h1>Mauritania</h1><br><img src=\"/sites/default/files/2021-05/Mauritania.jpeg\" alt=\"Mauritania\" typeof=\"Image\" width=\"2048\" height=\"1365\"><br><p>La Mauritanie, en forme longue la République islamique de Mauritanie est un État d'Afrique du Nord-Ouest, situé entre 15 et 27 degrés de latitude nord et 5 et 17 degrés de longitude ouest.</p><a href=\"country-profile/mauritania\"> cliquez ici pour voir les documents liés au pays</a></div>",
+			"text": "<div class=\"jsmaps-text\" ><h1>mauritanie</h1><br><img src=\"/sites/default/files/2021-05/mauritanie.jpeg\" alt=\"mauritanie\" typeof=\"Image\" width=\"2048\" height=\"1365\"><br><p>La Mauritanie, en forme longue la République islamique de Mauritanie est un État d'Afrique du Nord-Ouest, situé entre 15 et 27 degrés de latitude nord et 5 et 17 degrés de longitude ouest.</p><a href=\"country-profile/mauritanie\"> cliquez ici pour voir les documents liés au pays</a></div>",
 			"path": "m 102.3508,231.26685 c -0.32524,-2.1954 -0.13711,-3.71111 0.74009,-5.82447 0.24521,-0.59088 1.06087,-2.01599 2.60514,-2.09616 l 44.45534,-0.0509 c 2.26092,-1.19108 0.70772,-11.01566 0.55706,-14.7972 -0.27582,-3.80089 -0.66005,-6.27664 2.38703,-9.16045 2.55172,-2.415 2.46754,-1.79946 10.57455,-5.11416 l 1.78087,-34.80785 39.66549,-0.46497 0.53315,-17.65068 c 15.10149,10.16066 29.92127,20.62613 44.48866,31.53932 -7.00549,0 -14.06614,0 -21.07003,0 l 8.64685,116.24408 c 0.71171,1.90129 2.66939,2.72084 2.84349,3.16507 1.15796,2.95656 -0.36622,3.85043 -0.47543,6.12865 -0.12755,2.66971 -0.39141,5.07424 -1.16928,5.36084 l -25.3304,0.0303 c -14.38803,0.49788 -20.55091,2.46863 -21.82255,-1.7866 -0.61382,3.8519 -6.31976,4.48169 -9.13392,3.36403 -4.44435,-1.76513 -7.2821,-1.02109 -9.10362,3.98264 -1.0344,-1.70815 -2.54041,-3.16478 -4.08308,-4.65226 -1.8279,-1.76254 -3.58995,-2.70779 -4.56074,-2.16953 -3.64926,2.02333 1.44399,12.1972 -7.51902,11.55473 0.0462,0.16285 -2.41732,-1.74263 -3.06988,-2.99023 -0.80625,-1.54165 -1.73702,-1.05042 -3.284,-2.37088 -1.67564,-1.43029 -1.55782,-3.7641 -2.93229,-4.67778 -3.68036,-2.44651 -2.22154,-2.47704 -2.56337,-4.13607 -0.42106,-2.04294 -2.50039,-4.64486 -3.541,-4.65983 -5.41499,-0.078 -5.80305,-4.47219 -9.3144,-6.16401 -1.77146,-0.85353 -3.31541,-1.30453 -5.70356,-1.38256 -3.71925,-0.12149 -4.99838,3.51325 -13.53506,2.8758 -1.79952,-0.1344 -1.55941,-1.33632 -3.09204,-0.90103 -1.48799,0.54465 -3.23761,5.3337 -3.8307,6.58898 0,-8.2937 5.4593,-15.05844 6.2469,-23.18793 0.47352,-4.8946 -0.20248,-9.03348 -0.81629,-13.82603 -0.22162,-1.72826 -0.16581,-3.62392 -1.26431,-5.0891 -0.95819,-1.27866 -2.62905,-2.18743 -2.80602,-3.92843 1.27865,0.39858 2.68645,-0.55005 2.53499,-1.95146 -0.86413,0.23117 -1.55448,0.88007 -1.84943,1.72187 0.31409,-1.66448 1.65651,-2.83312 2.38672,-4.29512 0.47192,-0.94544 -0.21205,-2.45686 0.34118,-3.08981 2.49513,-2.85704 -1.32489,-7.92382 -2.26554,-10.75217 -0.38902,0.68238 -0.65527,1.40939 -0.79717,2.18105 -2.53179,-1.91639 -1.92754,-5.87989 -4.48006,-7.80584 -0.40656,1.69318 -1.01878,3.33534 -1.37432,5.04605"
 		},
 		{
