@@ -11,7 +11,7 @@ window.JSMaps.maps.africa = {
 			"abbreviation": "BF",
 			"textX": 285,
 			"textY": 343,
-			"color": "#59798e",
+			"color": "#3fabe2",
 			"hoverColor": "#055c88",
 			"selectedColor": "#1f546f",
 			"text": "<h1>Burkina Faso</h1><br /><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
